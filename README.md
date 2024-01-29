@@ -1,0 +1,2 @@
+	Aim of the project 
+The Laboratory System Project refers to an information system designed to organize and optimize laboratory procedures within a healthcare institution. This project encompasses essential features such as managing and overseeing various types of analyses and tests, securely storing patients' personal information, facilitating interaction with doctors, and evaluating laboratory performance through reporting and statistics.
