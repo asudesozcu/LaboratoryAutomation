@@ -1,0 +1,12 @@
+Device ID: 1
+Name: dev1
+Status: inUse
+-------------------------
+Device ID: 2
+Name: dev2
+Status: inUse
+-------------------------
+Device ID: 3
+Name: dev3
+Status: broken
+-------------------------
